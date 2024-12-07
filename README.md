@@ -21,5 +21,5 @@ The project explores the use of radio waves to detect chest vibrations caused by
 3. **Future Potential**: Integration with everyday devices like smartphones and home routers for affordable healthcare solutions.
 
 # 🔖 Additional Resources
-- [Detailed Project Report](https://drive.google.com/file/d/121l2O8ZwkgZS3g8MpB5lTYKVRaH53txN/view?usp=sharing)
+- [Detailed Project Report](https://www.overleaf.com/8449691955bpwttrnndmbn#7285da)
 - [Demo Video]()
